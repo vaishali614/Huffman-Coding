@@ -1,5 +1,5 @@
 // Name:-    Vaishali
-// Class:-   Btech in Computer Science from Maharaja Agrasen              	        Institute of Technology
+// Class:-   Btech in Computer Science from Maharaja Agrasen Institute of Technology
 // Date:-    31st August, 2018
 // Project:- Huffmann Coding for text compression
 
